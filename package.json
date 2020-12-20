@@ -1,0 +1,20 @@
+{
+  "name": "things-to-know",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanagu-mambu/things-to-know.git"
+  },
+  "keywords": [],
+  "author": "Kanagu Duraiswamy <kanagu.duraiswamy@mambu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanagu-mambu/things-to-know/issues"
+  },
+  "homepage": "https://github.com/kanagu-mambu/things-to-know#readme"
+}
